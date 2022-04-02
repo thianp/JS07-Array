@@ -7,5 +7,5 @@ let fruits = ['Apples', 'Pear', 'Orange'];
 let shoppingCart = fruits;
 shoppingCart.push('Banana');
 // what's in fruits?
-console.log(fruits.length); // *
+console.log(fruits.length); // * 
 ```
